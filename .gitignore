@@ -1,0 +1,21 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Other files and folders
+.settings/
+
+# Any Random CSVs
+*.csv
+
+# Ignore cached data
+data/*
+
+# ignore python c
+*.pyc
+
+# rendered rmd
+*.html

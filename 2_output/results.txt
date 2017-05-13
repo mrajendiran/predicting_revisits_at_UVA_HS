@@ -1,0 +1,35 @@
+Growing trees.. Progress: 90%. Estimated remaining time: 3 seconds.
+[1] "Random Forest ROC AUC for CCS1: 0.735090261509525"
+[1] "Random Forest PR  AUC for CCS1: 0.480369210266549"
+[1] "Logistic Regression ROC AUC for CCS1: 0.596165624382086"
+[1] "Logistic Regression PR  AUC for CCS1: 0.405205631546855"
+Growing trees.. Progress: 34%. Estimated remaining time: 1 minute, 0 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 28 seconds.
+[1] "Random Forest ROC AUC for CCS2: 0.737287695958992"
+[1] "Random Forest PR  AUC for CCS2: 0.481922698020411"
+[1] "Logistic Regression ROC AUC for CCS2: 0.597226236916983"
+[1] "Logistic Regression PR  AUC for CCS2: 0.403349125979726"
+Growing trees.. Progress: 18%. Estimated remaining time: 2 minutes, 23 seconds.
+Growing trees.. Progress: 36%. Estimated remaining time: 1 minute, 48 seconds.
+Growing trees.. Progress: 51%. Estimated remaining time: 1 minute, 28 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 1 minute, 1 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 27 seconds.
+[1] "Random Forest ROC AUC for CCS3: 0.738374107271534"
+[1] "Random Forest PR  AUC for CCS3: 0.480370439403623"
+[1] "Logistic Regression ROC AUC for CCS3: 0.59613423121458"
+[1] "Logistic Regression PR  AUC for CCS3: 0.402230650563347"
+Growing trees.. Progress: 75%. Estimated remaining time: 10 seconds.
+[1] "Random Forest ROC AUC for UNSUP: 0.72642107014709"
+[1] "Random Forest PR  AUC for UNSUP: 0.533002263799988"
+[1] "Logistic Regression ROC AUC for UNSUP: 0.608279571246633"
+[1] "Logistic Regression PR  AUC for UNSUP: 0.423247386361365"
+
+
+[1] "Tuned XGBoost ROC AUC for CCS1: 0.753628237480829"
+[1] "Tuned XGBoost PR  AUC for CCS1: 0.512522340682813"
+[1] "Tuned XGBoost ROC AUC for CCS2: 0.753033377660713"
+[1] "Tuned XGBoost PR  AUC for CCS2: 0.512370491006017"
+[1] "Tuned XGBoost ROC AUC for CCS3: 0.751570140974081"
+[1] "Tuned XGBoost PR  AUC for CCS3: 0.51261271470659"
+[1] "Tuned XGBoost ROC AUC for UNSUP: 0.740194088116364"
+[1] "Tuned XGBoost PR  AUC for UNSUP: 0.501669122724641"
